@@ -1,0 +1,28 @@
+THE TALKING NUMBERS
+                      Predict stock
+
+How to get the historical stocks market data?
+
+How to analyze stocks market data with Python?
+
+           How to predict stock in next day ?
+
+The following paper describes the work that was done on investigating applications of regression techniques on stock market price prediction. The report describes the linear and polynomial regression methods that were applied along with the accuracies obtained using these methods. It was found that support vector regression was the most effective out of the models used.
+
+What techniques and tools you are thinking about using ?
+
+The Program and visualization of data: Python libraries (Matplotlib, csv, numpy, pandas, etc) data filters, Support vector regression, ...
+
+1) Using the Polynomial Kernel:
+From the multiple trials performed, the polynomial kernel tended to have better predictions for a subset of the testing data
+
+2) Using the Linear Kernel:
+Linear regression was less sensitive to normalization techniques as opposed to the polynomial regression techniques.
+
+3) Using the RBF Kernel:
+However, it seemed to come at the cost of not as accurate predictions at the beginning of the test data.
+Linear and polynomial regression were able to have more accurate predictions than SVR with the RBF kernel
+
+
+ CONCLUSION AND FUTURE WORK:
+An opportunity for future research also emerges from applying additional linear and polynomial regression methods to this problem. We will create a effective tool for stock market prediction and can be used on real world. 
